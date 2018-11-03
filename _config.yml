@@ -13,7 +13,7 @@ name                     : &name "Karthik Vignesh"
 description              : &description "Third Year Undergraduate at IIT Bombay"
 url                      : https://kv101.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kv101/kv101.github.io"
+repository               : "kv101.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
